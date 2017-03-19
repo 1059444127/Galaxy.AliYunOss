@@ -21,7 +21,7 @@ using System.Runtime.InteropServices;
 // 与程序集关联的信息。
 
 [assembly: AssemblyTitle("Galaxy.AliYunOss")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("OurGalaxy团队自用的阿里云OSS插件信息")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Galaxy.AliYunOss")]

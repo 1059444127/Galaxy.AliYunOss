@@ -13,6 +13,9 @@ using System.Configuration;
 
 namespace Galaxy.AliYunOss.Util
 {
+    /// <summary>
+    /// 阿里云OSS的仓库配置信息
+    /// </summary>
     public class Config
     {
         public static readonly string Endpoint = ConfigurationManager.AppSettings["Endpoint"];

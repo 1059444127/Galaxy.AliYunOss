@@ -11,6 +11,9 @@
 
 namespace Galaxy.AliYunOss.Util
 {
+    /// <summary>
+    /// 接收返回的信息
+    /// </summary>
     public class FileData
     {
         /// <summary>
